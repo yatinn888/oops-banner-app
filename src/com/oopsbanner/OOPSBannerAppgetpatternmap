@@ -1,4 +1,4 @@
-
+package com.oopsbanner;
 public class OOPSBannerAppgetpatternmap {
 
     public static class CharacterPattern {
