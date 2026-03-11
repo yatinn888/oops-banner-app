@@ -1,0 +1,19 @@
+package com.oopsbanner;
+
+public class HelloUserworld {
+
+    public static void main(String[] args) {
+
+        String name;
+
+        // check if name is given
+        if (args.length > 0) {
+            name = args[0];
+        } 
+        else {
+            name = "World";
+        }
+
+        System.out.println("Hello " + name);
+    }
+}
