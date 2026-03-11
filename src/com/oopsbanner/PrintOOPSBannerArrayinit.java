@@ -1,3 +1,4 @@
+package com.oopsbanner;
 public class PrintOOPSBannerArrayinit {
     public static void main(String[] args) {
 
